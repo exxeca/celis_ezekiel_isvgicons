@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 261.45 291.68">
+
+
+
+<style>
+  text {
+    fill: white;
+  }
+</style>
+
+
+
+  <g id="Layer_1-2" data-name="Layer 1">
+
+      <path d="M154.21,103.3l27.47-27.99C131.51,45.04,57.38.64,53.19,0l-.34.04,101.35,103.26"
+      style="fill: blue; stroke-width: 0px; transition: fill 0.3s ease-in-out;"
+      
+      onmouseover="this.style.fill='red'"
+      onmouseout="this.style.fill='blue'"/>
+
+    <path id="path2" d="M46.78,6.23l-.03.34v205.86l.03.33,101.35-103.26L46.78,6.23Z" style="fill: #a2d2ff; stroke-width: 0px; transition: fill 0.3s ease-in-out;"
+      onmouseover="this.style.fill='#ffb703'"
+      onmouseout="this.style.fill='#a2d2ff'"/>
+
+    <path id="path3" d="M154.22,115.7l-101.35,103.26.32.04c4.21-.68,78.32-45.07,128.48-75.33l-27.45-27.97Z" style="#c9ada7; stroke-width: 0px; transition: fill 0.3s ease-in-out;"
+      onmouseover="this.style.fill='#ccd5ae'"
+      onmouseout="this.style.fill='#faedcd'"/>
+
+    <path d="M227.3,102.93s-15.85-9.63-37.97-22.99l-29.02,29.57,29.01,29.56c22.13-13.37,37.98-23,37.98-23,3.45-1.85,6.45-2.94,6.45-6.57s-3.4-4.87-6.45-6.57"   style="#ff4d6d; stroke-width: 0px; transition: fill 0.3s ease-in-out;"
+      onmouseover="this.style.fill='#06d6a0'"
+      onmouseout="this.style.fill='#8a5a44'"/>
+
+    <text transform="translate(.52 272.6)" style="font-family: GameReality-Regular, &apos;Game &amp; Reality&apos;; font-size: 60px;"><tspan x="0" y="0" style="letter-spacing: -.03em;">P</tspan><tspan x="37.44" y="0">o</tspan><tspan x="70.62" y="0" style="letter-spacing: 0em;">l</tspan><tspan x="84.96" y="0">ySto</tspan><tspan x="206.1" y="0" style="letter-spacing: -.02em;">r</tspan><tspan x="230.94" y="0">e</tspan></text>
+  </g>
+</svg>
